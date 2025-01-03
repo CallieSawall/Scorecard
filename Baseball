@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Scorecard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Golf Scorecard</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Inning</th>
+                <th>Teams</th>
+                <th>Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Brewers</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Cincinnati Reds</td>
+                <td>0</td>
+            </tr>
+                        <tr>
+                <td>2</td>
+                <td>Brewers</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Cincinnati Reds</td>
+                <td>0</td>
+            </tr>
+                        <tr>
+                <td>3</td>
+                <td>Brewers</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Cincinnati Reds</td>
+                <td>0</td>
+            </tr>
+                        <tr>
+                <td>4</td>
+                <td>Brewers</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Cincinnati Reds</td>
+                <td>0</td>
+            </tr>
+                        <tr>
+                <td>5</td>
+                <td>Brewers</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Cincinnati Reds</td>
+                <td>0</td>
+            </tr>
+                        <tr>
+                <td>6</td>
+                <td>Brewers</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Cincinnati Reds</td>
+                <td>0</td>
+            </tr>
+                        <tr>
+                <td>7</td>
+                <td>Brewers</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Cincinnati Reds</td>
+                <td>0</td>
+            </tr>
+                        <tr>
+                <td>8</td>
+                <td>Brewers</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Cincinnati Reds</td>
+                <td>0</td>
+            </tr>
+                        <tr>
+                <td>9</td>
+                <td>Brewers</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Cincinnati Reds</td>
+                <td>1</td>
+            </tr>
+                        <tr>
+                <td>1</td>
+                <td>Brewers</td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Cincinnati Reds</td>
+                <td>0</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
