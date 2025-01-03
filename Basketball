@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basketball Scorecard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Basketball Scorecard</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Quarter</th>
+                <th>Team</th>
+                <th>Points</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Lakers</td>
+                <td>115</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Goldenn State Warriors</td>
+                <td>120</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
